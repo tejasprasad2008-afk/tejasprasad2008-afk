@@ -9,9 +9,9 @@
    |_|  |______|_____|_|  (_)_____/
 ```
 
-### `tejasprasad2008-afk` · security researcher · builder · student
+###· security researcher · builder · student
 
-*UAE-based. Breaking things responsibly since before it was cool.*
+*Breaking things responsibly since before it was cool.*
 
 [![Visits](https://komarev.com/ghpvc/?username=tejasprasad2008-afk&color=blueviolet&style=flat-square&label=profile+views)](https://github.com/tejasprasad2008-afk)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--7201--7799-brightgreen?style=flat-square&logo=orcid)](https://orcid.org/0009-0008-7201-7799)
@@ -25,7 +25,7 @@
 
 ## 👋 hey, I'm Tejas
 
-I'm an independent security researcher, developer, and incoming CS (Blockchain, IoT & Cybersecurity) student at **Woxsen University** — starting August 2026.
+I'm an independent security researcher, developer.
 
 I build tools that catch things scanners miss, research vulnerabilities before they become headlines, and occasionally write papers about obscure attack surfaces like maritime AIS spoofing and LLM trust chains.
 
